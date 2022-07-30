@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azfar Lari</h1>
-<h3 align="center">A passionate ML Developer and Freelancer, active on Upwork(Top Rated)</h3>
+<h3 align="center">A passionate ML Developer, previously active on Upwork(Top Rated)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azf99&label=Profile%20views&color=0e75b6&style=flat" alt="azf99" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, Google Cloud, NLP**
 
-- 👨‍💻 My Portfolio [https://www.upwork.com/freelancers/azfarlari](https://www.upwork.com/freelancers/azfarlari)
+- 👨‍💻 My Portfolio on Upwork [here](https://www.upwork.com/freelancers/~019f4c5ab3357c29a6)
 
 - 💬 Ask me about **TensorRT, MLOps, Python, OpenCV**
 
