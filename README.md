@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azf99" alt="azf99" /></a> </p>
 
+- Currently active as @azfar-lambdatest
+
 - 🌱 I’m currently learning **Django, Google Cloud, NLP**
 
 - 👨‍💻 My Portfolio on Upwork [here](https://www.upwork.com/freelancers/~019f4c5ab3357c29a6)
