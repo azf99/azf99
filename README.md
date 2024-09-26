@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azf99" alt="azf99" /></a> </p>
 
-- Currently active as @azfar-lambdatest
+- Currently active as [@azfar-lambdatest](https://github.com/azfar-lambdatest).
 
 - 🌱 I’m currently learning **Django, Google Cloud, NLP**
 
